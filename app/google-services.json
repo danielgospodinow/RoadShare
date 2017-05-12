@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1039590590333",
+    "firebase_url": "https://roadshare-1f598.firebaseio.com",
+    "project_id": "roadshare-1f598",
+    "storage_bucket": "roadshare-1f598.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039590590333:android:4ad1e124105543f0",
+        "android_client_info": {
+          "package_name": "com.roadshare.dgospodinow.roadshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039590590333-2p06dbucf6e98h2gjmo9qmau728nf84g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.roadshare.dgospodinow.roadshare",
+            "certificate_hash": "18c5cb4be2f06e8c01e04217ca0ad9a38b6eb3a1"
+          }
+        },
+        {
+          "client_id": "1039590590333-dlmcp2pmuomqbk093t6ok9i1nie2gnkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTvfBbF1BFrC6J9XEE_pLbuYlPkYqowyY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039590590333-dlmcp2pmuomqbk093t6ok9i1nie2gnkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
