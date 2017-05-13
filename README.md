@@ -1,6 +1,4 @@
 # RoadShare
-Single-player and Multiplayer arcade game similar to **Space Invaders** made with
-C++ and SDL
 
 ###### Plans:
 <p align="center">
