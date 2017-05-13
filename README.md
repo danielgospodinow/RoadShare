@@ -13,5 +13,5 @@ C++ and SDL
 
 ###### Development screenshots:
 <p align="center">
-  <img src = "http://i.imgur.com/FPclwwy.png"/>
+  <img src = "http://i.imgur.com/FPclwwy_d.jpg"/>
 </p>
