@@ -1,6 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
-    android:layout_height="match_parent">
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:baselineAligned="false"
+    android:orientation="vertical">
 
-</LinearLayout>
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:background="@drawable/ic_circle_svg"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="33dp">
+
+    </Button>
+
+    <ImageView
+        android:id="@+id/outterCircle"
+        android:clickable="true"
+        android:layout_width="260dp"
+        android:layout_height="260dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/ic_circle_svg2"
+        android:layout_marginTop="28dp"
+    />
+
+    <ImageView
+        android:id="@+id/outterCircle2"
+        android:clickable="true"
+        android:layout_width="260dp"
+        android:layout_height="260dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/ic_circle_svg2"
+        android:layout_marginTop="285dp"
+    />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/button3"
+        android:layout_marginTop="139dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="Имам кола"
+        android:textColor="#9abef9"
+        android:textSize="30dp"
+
+    />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/button3"
+        android:layout_marginTop="400dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="Търся кола"
+        android:textColor="#9abef9"
+        android:textSize="30dp"
+    />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:background="@drawable/ic_circle_svg"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="290dp"
+
+    />
+
+</RelativeLayout>
