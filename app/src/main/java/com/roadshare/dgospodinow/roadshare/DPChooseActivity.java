@@ -63,6 +63,7 @@ public class DPChooseActivity extends AppCompatActivity {
         } else {
             Intent loginIntent = new Intent(DPChooseActivity.this, SignInActivity.class);
             startActivity(loginIntent);
+            finish();
         }
     }
 
